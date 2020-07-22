@@ -37,6 +37,10 @@ This project demonstrates some of project patterns:
 
 Only the Console Mode was developed.
 
+## Pre-Requisities ##
+- maven
+- JDK 1.6
+
 # RUN
 
 ```
